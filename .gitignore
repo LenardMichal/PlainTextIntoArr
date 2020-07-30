@@ -1,0 +1,4 @@
+#Ignore all directories thats are used in development.
+node_modules
+dist
+src

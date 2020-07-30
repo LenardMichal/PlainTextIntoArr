@@ -1,0 +1,1 @@
+Simple boilerplate with everything to start node development with Ts!
